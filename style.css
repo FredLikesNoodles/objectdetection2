@@ -21,4 +21,9 @@ body{
 canvas{
     border-radius: 18px;
     box-shadow: 10px 10px 30px grey;
+    border-color: black;
+    border-style: solid;
+}
+.btn-success{
+    padding: 15px !important;
 }
